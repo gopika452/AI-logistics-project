@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# ML models
+*.h5
+*.pkl
+*.joblib
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
