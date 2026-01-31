@@ -221,12 +221,6 @@ These challenges provided **hands‑on industry experience**.
 
 ---
 
-## 💬 Interview‑Ready Summary
-
-> I built a full‑stack AI logistics delay prediction system using React, FastAPI, and Scikit‑learn, deployed on Microsoft Azure. I explored both manual and CI/CD‑based deployment approaches, ultimately implementing a GitHub‑based CI/CD pipeline for automated build and deployment. This project gave me strong practical experience in cloud computing, DevOps practices, and real‑world ML deployment.
-
----
-
 ## 🚀 Future Enhancements
 
 * Docker containerization
